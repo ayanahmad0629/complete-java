@@ -24,7 +24,7 @@ One of the most popular language stands on 4th or 5th worldwide rank among all p
 - Wide Usage (Web-apps, backend, Mobile apps, enterprise software).
 - High paying and a lot of Jobs (:
 
-![Programming Stats]()
+![Programming Stats](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Programming%20Language%20Stats.png)
 
 - Object Oriente (We will learn this term in detail in coming chapters)
 - Rich APIs and Community Support
