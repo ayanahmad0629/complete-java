@@ -29,3 +29,8 @@ One of the most popular language stands on 4th or 5th worldwide rank among all p
 - Object Oriente (We will learn this term in detail in coming chapters)
 - Rich APIs and Community Support
 
+## 1.3 What is an Algorithm
+
+An algorithm is a step-by-step procedure for solving a problem or performing a task.
+
+![Algorithm()
