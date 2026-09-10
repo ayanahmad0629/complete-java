@@ -37,9 +37,22 @@ An algorithm is a step-by-step procedure for solving a problem or performing a t
 
 ## 1.4 What is Syntax
 
-Syntax is the grammar of a computer, like English grammar. So, if someone said to you, "Drinking am I Water," you use your brain and understand she may mean "I am drinking water," but a computer doesn't have a brain. A computer can't predict things on its own, so a computer needs syntax, which is called:
+Syntax is the grammar of a computer, like English grammar. So, if someone said to you, "Drinking am I Water," you use your brain and understand she/he may mean "I am drinking water.
 
-![Syntax]()
+![Syntax](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Syntax.png)
 
+But a computer doesn't have a brain. A computer can't predict things on its own, so a computer needs syntax, which is called:
 - Structure of words in a sentence.
 - Rules of languages. 
+
+## 1.5 History of Java
+
+Java was developed by James Gosling at Sun Microsystems in the early 1990s. James Gosling originally named the Java language "Oak" because where he was developing Java, there was a window, and from that window, an oak tree was visible. So, he named it Oak. Later, it was renamed Java at Sun Microsystems by a collective team in 1995. 
+### Write Once, Run Anywhere (WORA)
+Java was first released in 1995 with the goal of introducing "Write Once, Run Anywhere," which is:
+
+![WORA]() 
+
+- Write code anywhere it will run anywher
+- Platform independece like run on different operating systems and hardware.
+- Cross-platform compatibility.
