@@ -33,4 +33,4 @@ One of the most popular language stands on 4th or 5th worldwide rank among all p
 
 An algorithm is a step-by-step procedure for solving a problem or performing a task.
 
-![Algorithm()
+![Algorithm](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Algorithm.png)
