@@ -51,7 +51,7 @@ Java was developed by James Gosling at Sun Microsystems in the early 1990s. Jame
 ### Write Once, Run Anywhere (WORA)
 Java was first released in 1995 with the goal of introducing "Write Once, Run Anywhere," which is:
 
-![WORA]() 
+![WORA](https://github.com/ayanahmad0629/complete-java/blob/main/Images/WORA.png) 
 
 - Write code anywhere it will run anywher
 - Platform independece like run on different operating systems and hardware.
