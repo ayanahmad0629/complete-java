@@ -56,3 +56,8 @@ Java was first released in 1995 with the goal of introducing "Write Once, Run An
 - Write code anywhere it will run anywher
 - Platform independece like run on different operating systems and hardware.
 - Cross-platform compatibility.
+
+Developed with vision of backward compatibility. Should not break with new version release.
+
+### Rapid Growth and Diversification
+In the late 1990s - 2010s Java expanded from web applets to server-side applications; standardized into different editions for various computing platforms.
