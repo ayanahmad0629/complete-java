@@ -67,9 +67,13 @@ Developed with vision of backward compatibility. Should not break with new versi
 - Standardized into different editions for various computing platforms.
 - Introduced many more classes and libraries for software development.
 
-## Magic of Byte Code
+## 1.6 Magic of Byte Code
 When you write Java code and want to show the output, the source code (src), or your normal Java code, which is saved as a `.java` file, is converted by the Java compiler into bytecode, which is saved as a `.class` file. You can't normally see, read, or edit the bytecode directly. 
 
+![ByteCode](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Byte-Code.png)
 
 Then, the JVM (Java Virtual Machine), which is present on your device, understands the bytecode and converts it into machine code, which is made up of 0s and 1s. Then, the machine can understand and execute your code or source code.
 
+
+## 1.7 How Java Changed the Internet
+Java changed the Internet because of its features like WORA and other optimizations, along with security features such as running code inside the JVM (Java Virtual Machine) or own divice Virtual Machine.
