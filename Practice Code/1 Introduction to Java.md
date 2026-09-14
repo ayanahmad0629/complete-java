@@ -77,3 +77,32 @@ Then, the JVM (Java Virtual Machine), which is present on your device, understan
 
 ## 1.7 How Java Changed the Internet
 Java changed the Internet because of its features like WORA and other optimizations, along with security features such as running code inside the JVM (Java Virtual Machine) or own divice Virtual Machine.
+
+## 1.8 Java Buzzwords
+
+Java buzzwords are terms that describe how Java works, along with its features and characteristics.
+
+### Robust
+Java is robust due to its strong memory management, exception handling, and type-checking mechanisms, which help in preventing system crashes and ensuring reliable performance.
+
+![Robust](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Robust.png)
+
+### Multithreaded
+Multithreading in programming is the ability of a CPU to execute multiple threads concurrently, allowing for more efficient processing and task management.
+
+![Multithreaded](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Multithreaded.png)
+
+### Architecture Neutral
+Java is architecturally neutral because its compiled code (bytecode) can run on any device with a Java Virtual Machine (JVM), regardless of the underlying hardware architecture.
+
+![Architecture-Neutral](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Architecture-Neutral.png)
+
+### Interpreted and High Performance
+Java combines high performance with interpretability, as its bytecode is interpreted by the Java Virtual Machine (JVM), which employs Just-In-Time (JIT) compilation for efficient and fast execution.
+
+![Interpreted-and-High-Performance](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Interpreted-and-High-Performance.png)
+
+### Distributed
+Java is inherently distributed, designed to facilitate network-based application development and interaction, seamlessly integrating with Internet protocols and remote method invocation basically mean work accross differnt computer.
+
+![Distributed](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Distributed.png)
