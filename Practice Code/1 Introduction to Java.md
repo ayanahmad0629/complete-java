@@ -106,3 +106,8 @@ Java combines high performance with interpretability, as its bytecode is interpr
 Java is inherently distributed, designed to facilitate network-based application development and interaction, seamlessly integrating with Internet protocols and remote method invocation basically mean work accross differnt computer.
 
 ![Distributed](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Distributed.png)
+
+## 1.9 Object Oriented Programming (OOP)
+Java is an Object-Oriented Programming (OOP) language, which means it organizes code using objects that contain data and behavior. 
+
+![OOP](https://github.com/ayanahmad0629/complete-java/blob/main/Images/OOP.png)
