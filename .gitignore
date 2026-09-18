@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+# Datasource local storage ignored files
+/dataSources/
+/queries/
+/dataSources.local.xml
+/idea/
+.idea/
+*.iml
