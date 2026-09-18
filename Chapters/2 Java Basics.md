@@ -13,3 +13,4 @@ JDK is the core to make Java programs, containing only the essentials that are h
 To code Java using a text editor, you need Notepad (Windows), GNOME Text Editor or Kate (Linux), or TextEdit (macOS).
 Here is the code to make our first output. Try not to copy-paste it yourself. See the code and write it by yourself. 
 ### Notepad (Windows)
+- Open Notepad type this code
