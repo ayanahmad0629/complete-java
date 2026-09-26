@@ -82,5 +82,77 @@ Anatomy of a Java Class means understanding the different parts of a class and t
 - Used for Execution
 - Not meant to be edited
 
-## 2.6 JDK vs JVM vs JRE
+## 2.6 JDK vs JRE vs JVM
 
+![JDK-JRE-JVM](https://github.com/ayanahmad0629/complete-java/blob/main/Images/JVM-JDK-JRE.png)
+
+### JDK 
+- It's a software development kit required to develop Java applications.
+- Includes the JRE, an interpreter/loader (Java), a compiler (javac), a doc generator
+  (Javadoc), and other tools needed for Java development.
+- Essentially, JDK is a superset of JRE.
+### JRE 
+- It's a part of the JDK but can be downloaded separately.
+- Provides the libraries, the JVM, and other components to run applications.
+- Does not have tools and utilities for developers like compilers or debuggers.
+### JVM
+- It's a part of JRE and responsible for executing the bytecode.
+- Ensures Java’s write-once-run-anywhere capability.
+- Not platform-independent: a different JVM is needed for each type of OS.
+
+## 2.7 Showing Output
+
+![Showing-Output](https://github.com/ayanahmad0629/complete-java/blob/main/Images/Showing-Output.png)
+
+### `System.out.print("One");`
+`print("One");` means the cursor stays on the same line after printing the output.
+### `System.out.println("Two");`
+`println("Two");` means the cursor moves to a new line after printing the output.
+### `System.out.println();`
+`println();` creates a new line without printing any text.
+
+## 2.8 Importance of the main method 
+### `public static void main(String args[]);`
+-  Entry Point: It's the entry point of a Java program, where the execution starts.
+   Without the main method, the Java Virtual Machine (JVM) does not know where to
+   begin running the code.
+
+- Public and Static: The main method must be public and static, ensuring it's accessible
+  to the JVM without needing to instantiate the class.
+- Fixed Signature: The main method has a fixed signature: `public static void
+  main(String[] args)`. Deviating from this signature means the JVM won't recognize it
+  as the starting point.
+
+## 2.9 What is IDE
+- IDE stands for Integrated Development Environment.
+- A software suite that consolidates the basic tools required for software development.
+- A central hub for coding, finding problems, and testing.
+- Designed to improve developer efficiency.
+
+### Need for an IDE
+- Streamlines development.
+- Increases productivity.
+- Simplifies complex tasks.
+- Offers a unified workspace.
+
+### IDE Features
+- Code Autocomplete
+- Syntax Highlighting
+- Version Control
+- Error Checking
+
+### Installing an IDE
+You can use any IDE you want, like VS Code or IntelliJ IDEA. I'm going to show you how to set up IntelliJ IDEA because it is great for Java development.
+
+- Search for IntelliJ IDEA.
+- Download the latest version from the official JetBrains website. [Click here](https://www.jetbrains.com/idea/download/)
+- Make sure to download the version according to your operating system, such as Windows, macOS, or Linux.
+- Install it.
+
+### Creating Your First Project
+- Click on `New Project`.
+- Add a name for your project.
+- Select the JDK (Java version).
+- Create the project.
+- IntelliJ IDEA may add some pre-made code. You can remove it and add our code instead. [Click here](https://github.com/ayanahmad0629/complete-java/blob/main/Chapters-Code/BasicCode.java)
+- Click the green Run button at the top to run your code.
